@@ -34,8 +34,12 @@ Urmează acești pași pentru a configura și rula aplicația pe mașina ta loca
 4. **Rulează aplicația frontend:**
    ```bash
    npm run start
+
+5. **Intră în directorul Backend-ului:**
+    ```bash
+    cd portfolio-backend
    
-5. **Rulează serverul backend în modul de dezvoltare:**
+6. **Rulează serverul backend în modul de dezvoltare:**
    ```bash
    npm run start:dev
 Backend-ul va fi disponibil pe http://localhost:3001
