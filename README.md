@@ -7,7 +7,7 @@
 ### Structura Proiectului
 
 - **Frontend**: 
-  - Utilizând React.js, frontend-ul gestionează interfața utilizatorului (UI) și experiența utilizatorului (UX). Aplicația include pagini precum "Despre Mine", "Proiecte", "Abilități", și "Contact".
+  - Utilizând React.js, frontend-ul gestionează interfața utilizatorului (UI) și experiența utilizatorului (UX). 
 
 - **Backend**:
   - Construiește API-uri RESTful folosind Node.js și Nest.js pentru a gestiona cererile de date și a interacționa cu baza de date.
